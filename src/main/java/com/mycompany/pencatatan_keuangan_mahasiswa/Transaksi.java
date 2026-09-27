@@ -88,9 +88,8 @@ public class Transaksi  {
         return jumlahTransaksi;
     }
 
-    // ==============================
-    // METHOD
-    // ==============================
+    
+  
 
     public void tampilkanInfo() {
         System.out.printf(
